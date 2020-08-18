@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ Class\ for\ the\ game\ board\r\n
+comment1.params=
+comment1.target=Board()
+comment2.params=
+comment2.target=void\ started()
+comment3.params=
+comment3.target=void\ clearWorld()
+comment4.params=
+comment4.target=void\ updateWorld()
+comment5.params=lastDirection
+comment5.target=java.lang.String\ snakeDirection(java.lang.String)
+comment6.params=
+comment6.target=void\ createFood()
+comment7.params=
+comment7.target=void\ create6Rocks()
+comment8.params=
+comment8.target=void\ didItReach()
+comment9.params=
+comment9.target=void\ stopped()
+numComments=10

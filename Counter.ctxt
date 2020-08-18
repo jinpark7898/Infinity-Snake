@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Class\ for\ the\ score\ counter\r\n
+comment1.params=
+comment1.target=Counter()
+comment1.text=\r\n\ constructor\ that\ makes\ the\ a\ new\ score\ board.\r\n
+comment2.params=i
+comment2.target=Counter(int)
+comment3.params=
+comment3.target=void\ addScore()
+comment4.params=
+comment4.target=void\ updateImage()
+comment5.params=newScore
+comment5.target=void\ setScore(int)
+comment6.params=
+comment6.target=int\ getScore()
+numComments=7

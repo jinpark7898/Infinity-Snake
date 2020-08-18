@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\r\n\ Super-class\ for\ the\ classes\ that\ represents\ a\ snake\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Snake\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=x\ y
+comment2.target=Snake(int,\ int)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=x\ y
+comment5.target=void\ setXY(int,\ int)
+comment6.params=cls
+comment6.target=boolean\ intersecting(java.lang.Class)
+comment7.params=cls
+comment7.target=greenfoot.Actor\ getIntersectingObject(java.lang.Class)
+numComments=8
